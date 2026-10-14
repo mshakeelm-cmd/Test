@@ -1,0 +1,4 @@
+# Apple Silicon Mac only (mlx-whisper uses the Mac's GPU via MLX).
+mlx-whisper>=0.4.3
+pyannote.audio>=4.0,<5
+numpy
